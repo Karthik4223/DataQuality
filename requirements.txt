@@ -1,0 +1,12 @@
+jupytext
+numpy
+streamlit_pandas_profiling
+streamlit
+bokeh
+matplotlib
+pandas
+string_grouper
+pandas_profiling
+python_dateutil
+xlrd
+xlsxwriter
