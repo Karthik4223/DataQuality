@@ -11,6 +11,9 @@
 </p>
 
 
-
+<h3 align="center">
+    Try it now: <br>
+    <a href="https://share.streamlit.io/pranithchowdary/dataq/main/home.py">DataQ App</a>
+</h3>
 
 
