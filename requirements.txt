@@ -10,5 +10,5 @@ pandas_profiling
 python_dateutil
 xlrd
 xlsxwriter
-sparse-dot-topn-for-blocks
 Cython
+sparse-dot-topn-for-blocks
